@@ -25,17 +25,25 @@ Licensed per user, with a free tier. [More about Echo](https://www.lumir.ai/echo
 
 ## Download for macOS
 
-**[Get the latest version](https://github.com/Lumirai/echo-releases/releases/latest)** — open the
-`.dmg` and drag Echo into your Applications folder. Builds are signed by Lumirai LLC and notarized
-by Apple, and Echo keeps itself up to date from there. The `.zip` beside the `.dmg` is the format
-the updater uses, not an installer.
+**[Echo for Mac](https://github.com/Lumirai/echo-releases/releases/latest/download/Echo.dmg)** — open
+the `.dmg` and drag Echo into your Applications folder. Builds are signed by Lumirai LLC and
+notarized by Apple, and Echo keeps itself up to date from there.
 
-The Windows version comes from the Microsoft Store, which handles installation and updates.
+## Download for Windows
+
+**[Echo for Windows (x64)](https://github.com/Lumirai/echo-releases/releases/latest/download/Echo-Setup-x64.exe)**
+for most PCs, or
+**[Echo for Windows (ARM)](https://github.com/Lumirai/echo-releases/releases/latest/download/Echo-Setup-arm64.exe)**
+for Snapdragon and Surface Pro ARM. Run the installer; you can choose “only for me” or “anyone who
+uses this computer.” Builds are signed by Lumirai LLC, and Echo keeps itself up to date from there.
+If needed, you can disable automatic updates in the settings panel.
+
+Echo can also be [downloaded and updated from the Microsoft App Store](https://apps.microsoft.com/detail/9NGD85N0WCSL?hl=en-us&gl=US&ocid=pdpshare).
 
 ## About this repository
 
-This repository holds Echo's macOS installers and update feed. It does not hold application code.
-Echo is proprietary software and its source is not published.
+This repository holds Echo's macOS and Windows installers and update feed. It does not hold
+application code. Echo is proprietary software and its source is not published.
 
 ---
 
