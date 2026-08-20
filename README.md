@@ -1,9 +1,7 @@
 # Lumirai Echo
 
-**Your team opens the images. Echo puts them in your hands.**
-
 Lumirai Echo is a purpose-built browser for Medstrat Joints that brings cross-device tab sync to
-your PACS workflow. When your team opens a study on one device, it appears instantly on every
+your PACS workflow. When your team opens a study on one device, it appears on every
 synced device — images loaded and ready to go.
 
 Echo syncs through the Microsoft 365 for business subscription and OneDrive your practice already
