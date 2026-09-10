@@ -23,15 +23,15 @@ Licensed per user, with a free tier. [More about Echo](https://www.lumir.ai/echo
 
 ## Download for macOS
 
-**[Echo for Mac](https://github.com/Lumirai/echo-releases/releases/latest/download/Echo.dmg)** — open
+**[Echo for Mac](https://github.com/Lumirai/echo-releases/releases/latest/download/Lumirai-Echo.dmg)** — open
 the `.dmg` and drag Echo into your Applications folder. Builds are signed by Lumirai LLC and
 notarized by Apple, and Echo keeps itself up to date from there.
 
 ## Download for Windows
 
-**[Echo for Windows (x64)](https://github.com/Lumirai/echo-releases/releases/latest/download/Echo-Setup-x64.exe)**
+**[Echo for Windows (x64)](https://github.com/Lumirai/echo-releases/releases/latest/download/Lumirai-Echo-Setup-x64.exe)**
 for most PCs, or
-**[Echo for Windows (ARM)](https://github.com/Lumirai/echo-releases/releases/latest/download/Echo-Setup-arm64.exe)**
+**[Echo for Windows (ARM)](https://github.com/Lumirai/echo-releases/releases/latest/download/Lumirai-Echo-Setup-arm64.exe)**
 for Snapdragon and Surface Pro ARM. Run the installer; you can choose “only for me” or “anyone who
 uses this computer.” Builds are signed by Lumirai LLC, and Echo keeps itself up to date from there.
 If needed, you can disable automatic updates in the settings panel.
